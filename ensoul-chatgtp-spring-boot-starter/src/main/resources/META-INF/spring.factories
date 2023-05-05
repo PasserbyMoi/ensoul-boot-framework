@@ -1,0 +1,8 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.shimaoiot.framework.aliyun.mq.autoconfigure.K8sKtctlConfiguration,\
+com.shimaoiot.framework.aliyun.mq.autoconfigure.AliyunMQOpenApiConfiguration,\
+com.shimaoiot.framework.aliyun.mq.autoconfigure.AliyunMQInstanceApiConfiguration,\
+com.shimaoiot.framework.aliyun.mq.autoconfigure.AliyunMQGroupConfiguration,\
+com.shimaoiot.framework.aliyun.mq.autoconfigure.AliyunMQTopicConfiguration
+
+
