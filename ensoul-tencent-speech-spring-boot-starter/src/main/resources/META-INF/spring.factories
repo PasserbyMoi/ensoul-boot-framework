@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+club.ensoul.framework.tencent.speech.autoconfigure.TencentTtsAutoConfiguration
+
+

@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+club.ensoul.framework.aliyun.push.autoconfigure.AliyunPushAutoConfiguration
